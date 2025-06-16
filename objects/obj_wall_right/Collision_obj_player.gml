@@ -1,0 +1,1 @@
+global.vxplayer = 0
