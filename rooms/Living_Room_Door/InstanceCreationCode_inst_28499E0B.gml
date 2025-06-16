@@ -1,0 +1,1 @@
+text = " > You used the Fragments of Memory to unlock the door."

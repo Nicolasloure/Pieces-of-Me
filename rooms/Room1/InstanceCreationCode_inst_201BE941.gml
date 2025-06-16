@@ -1,0 +1,1 @@
+text = "I used to play this a lot with someone, but I can't remember who..."

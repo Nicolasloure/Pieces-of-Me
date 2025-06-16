@@ -1,0 +1,1 @@
+text = "It seems it's been a long time since these candles have seen any flames."

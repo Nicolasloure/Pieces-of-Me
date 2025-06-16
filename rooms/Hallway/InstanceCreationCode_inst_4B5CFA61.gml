@@ -1,0 +1,1 @@
+text = "I think I gave this to someone special long ago..."

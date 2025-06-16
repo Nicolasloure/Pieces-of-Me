@@ -1,0 +1,1 @@
+text = "Seems one side of this bed wasn't used in a long time."

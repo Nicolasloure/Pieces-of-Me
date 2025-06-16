@@ -1,0 +1,1 @@
+text = "There are some papers, including a note saying 'Movies night is tomorrow!!!'. Next to it, some tickets to a movie called 'Major Payne', for the 24th of March."

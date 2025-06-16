@@ -1,0 +1,1 @@
+text = "Some furniture with a candelabrum on top. It seems the last time it has seen any flames is long past." 

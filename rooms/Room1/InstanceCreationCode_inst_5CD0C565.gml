@@ -1,0 +1,1 @@
+text = "I look at the mirror, but can't see my face in the reflection. That's creepy..."

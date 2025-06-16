@@ -1,0 +1,1 @@
+text = "A kid's drawing showing a happy family. It seems to have something on the back side..." 

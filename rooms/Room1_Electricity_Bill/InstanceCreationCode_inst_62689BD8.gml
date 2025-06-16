@@ -1,0 +1,1 @@
+text = "It looks like an electricity bill. The date is March 1995."
