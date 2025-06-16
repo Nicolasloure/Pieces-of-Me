@@ -1,0 +1,1 @@
+global.char_walking_speed = 0
